@@ -1,8 +1,5 @@
 ![keyboard](https://github.com/mogba/mogba/assets/56984939/7147da72-4a81-49a0-9df1-32d65c84a7db)
-<p align="center"><sub><i>~ my beloved ~</i></sub></p>
-
-![](https://komarev.com/ghpvc/?username=mogba&color=ff69b4&style=flat-square&label=Views)
-<a href="https://www.linkedin.com/in/moraisgabrieeel/">![Static Badge](https://img.shields.io/badge/LinkedIn-3469BE?style=flat-square)</a>
+<p align="center"><sub><i>~ powered by wireless corne ~</i></sub></p>
 
 ---
 
@@ -11,6 +8,9 @@
 I'm **Gabriel**, a software engineer who likes to understand how technologies work under the hood. I believe that strong knowledge of programming fundamentals and hard work are two of the most important pieces to craft amazing things.
 
 stuck in vim btw
+
+![](https://komarev.com/ghpvc/?username=mogba&color=ff69b4&style=flat-square&label=Views)
+<a href="https://www.linkedin.com/in/moraisgabrieeel/">![Static Badge](https://img.shields.io/badge/LinkedIn-3469BE?style=flat-square)</a>
 
 ### Most confident on
 
